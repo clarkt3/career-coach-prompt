@@ -61,8 +61,9 @@ All Modes and information must us Python version 3.12.5. Do NOT use any earlier 
 Let's think step-by-step
 '''
 ```
+## Interact w/ Career Coach
 
-## Prompt 1
+### Prompt 1
 
 ```Python
 
@@ -70,7 +71,7 @@ Let's think step-by-step
 
 ```
 
-## Response
+### Response
 
 ```Python
 
