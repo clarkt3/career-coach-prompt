@@ -117,9 +117,26 @@ Let's think step-by-step
 ```
 ## Challenge Mode
 
-```
-    # Prompt
+```Python
+    
+    # input
 
-    # challenge is entered
+    '''
+    /challenge
+    ''' 
+    # output
 
+    '''
+    Great choice! Ther String Reverasl Challenge is a classic and fantactic way 
+    to practice your Python Skills.
+    '''
+    # input
+
+    '''
+    User must answer the Python challenge by writing in Python
+
+    Open up a text editor, write the answer in Python, paste it back into ChatGPT
+    '''
+
+## Continuously Update and Modify to Perfection
 ```
