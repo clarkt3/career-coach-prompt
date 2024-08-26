@@ -137,6 +137,6 @@ Let's think step-by-step
 
     Open up a text editor, write the answer in Python, paste it back into ChatGPT
     '''
-
+```
 ## Continuously Update and Modify to Perfection
 ```
