@@ -71,13 +71,48 @@ Let's think step-by-step
     # Prompt: Tell me about Datatypes
 
     # Response: GPT-4o lists core Python datatypes
+    
+    # Response (continuted) w/ three follow-up questions:
 
+    '''
+    What is the difference between a list and a tuple in terms
+    immptabilit?
+    '''
+
+    # Prompt: The diff b/t list and tuple is that a list is mutible and a tuple is not
 ```
-## 
-## Response
+## Quiz Mode 
+
+### ChatGPT Prompt/ Response
 
 ```Python
 
-    # 
+    # ChatGPT lists a questions with multiple choice answers
+
+    # If your answer is incorrect, ChatGPT will explain why it was wrong in detail
+
+```
+## Check Experience Points
+
+```Python
+
+    # prompt
+
+    '''
+    How many XP points do I have?
+    '''
+
+    # response:
+
+    '''
+    Currently, you have earned 10XP points from the quiz question you answered correctly.
+    '''
+
+    # note:
+
+    '''
+    Experience points custom instructions can be customized so the user is always
+    aware of their current points rank.
+    '''
 
 ```
