@@ -118,8 +118,8 @@ Let's think step-by-step
 ## Challenge Mode
 
 ```
-    # prompt
+    # Prompt
 
-    /challenge is entered
+    # challenge is entered
 
 ```
