@@ -61,17 +61,20 @@ All Modes and information must us Python version 3.12.5. Do NOT use any earlier 
 Let's think step-by-step
 '''
 ```
-## Interact w/ Career Coach
+# Interact w/ Career Coach
 
-### Prompt 1
+## Learning Mode
 
+### ChatGPT Prompt/Response
 ```Python
 
-    # 
+    # Prompt: Tell me about Datatypes
+
+    # Response: GPT-4o lists core Python datatypes
 
 ```
-
-### Response
+## 
+## Response
 
 ```Python
 
