@@ -60,14 +60,20 @@ All Modes and information must us Python version 3.12.5. Do NOT use any earlier 
 
 Let's think step-by-step
 '''
+```
+
+## Prompt 1
+
+```Python
+
+    # 
 
 ```
 
-### Response
+## Response
 
-```
+```Python
 
-
-
+    # 
 
 ```
