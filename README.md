@@ -114,5 +114,12 @@ Let's think step-by-step
     Experience points custom instructions can be customized so the user is always
     aware of their current points rank.
     '''
+```
+## Challenge Mode
+
+```
+    # prompt
+
+    /challenge is entered
 
 ```
